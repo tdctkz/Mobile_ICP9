@@ -1,0 +1,35 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Pizza Online Order</string>
+    <string name="name">Name</string>
+    <string name="toppings">SELECT YOUR TOPPINGS</string>
+    <string name="quantity">Quantity</string>
+    <string name="initial_quantity_value">1</string>
+    <string name="order">Order</string>
+    <string name="order_summary_name">Name:<xliff:g example="Vijaya" id="name">%s</xliff:g></string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="order_summary_pepperoni">Add Pepperoni? <xliff:g example="yes" id="pepperoni">%s</xliff:g></string>
+    <string name="order_summary_sausage">Add Sausage? <xliff:g example="yes" id="sausage">%s</xliff:g></string>
+    <string name="order_summary_chicken">Add Chicken? <xliff:g example="yes" id="chicken">%s</xliff:g></string>
+    <string name="order_summary_ham">Add Ham? <xliff:g example="yes" id="ham">%s</xliff:g></string>
+    <string name="order_summary_bacon">Add Bacon? <xliff:g example="yes" id="bacon">%s</xliff:g></string>
+    <string name="order_summary_sardines">Add Sardines? <xliff:g example="yes" id="sardines">%s</xliff:g></string>
+    <string name="order_summary_bell">Add Bell Peppers? <xliff:g example="yes" id="bell peppers">%s</xliff:g></string>
+    <string name="order_summary_banana">Add Banana Peppers? <xliff:g example="yes" id="banana peppers">%s</xliff:g></string>
+    <string name="order_summary_mushrooms">Add Mushrooms? <xliff:g example="yes" id="mushrooms">%s</xliff:g></string>
+    <string name="order_summary_onions">Add Onions? <xliff:g example="yes" id="onions">%s</xliff:g></string>
+    <string name="order_summary_olives">Add Olives? <xliff:g example="yes" id="olives">%s</xliff:g></string>
+    <string name="order_summary_spinach">Add Spinach <xliff:g example="yes" id="spinach">%s</xliff:g></string>
+    <string name="order_summary_tomatoes">Add Tomatoes? <xliff:g example="yes" id="tomatoes">%s</xliff:g></string>
+    <string name="order_summary_ranch">Add Ranch? <xliff:g example="yes" id="ranch">%s</xliff:g></string>
+    <string name="order_summary_parm">Add Parmesan? <xliff:g example="yes" id="parmesan">%s</xliff:g></string>
+    <string name="order_summary_crp">Add Crushed Red Pepper? <xliff:g example="yes" id="crushed red peppers">%s</xliff:g></string>
+    <string name="order_summary_sp">Add Salt/Pepper? <xliff:g example="yes" id="salt/pepper">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_total_price">Total: $ <xliff:g example="10" id="price">%.2f</xliff:g></string>
+    <string name="too_much_coffee">Orders greater than 100 must be called in</string>
+    <string name="too_little_coffee">You must order one pizza to continue</string>
+    <string name="order_complete">Your confirmation number is: 123456. Please check your email for your receipt. Thank you for shopping with us!</string>
+    <string name="my_msg" />
+    <string name="return_to_order">RETURN TO ORDER</string>
+</resources>
